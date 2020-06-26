@@ -1,1 +1,2 @@
-This is the new file for testing the merging
+This is the new file for testing the merging.
+We have modified this file for statsghing
